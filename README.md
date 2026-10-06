@@ -69,3 +69,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Aplikasi ini digunakan untuk mengelola data buku perpustakaan.
 Fitur yang tersedia meliputi login, dashboard, tambah buku,
 detail buku, edit buku, dan hapus buku.
+
+## Pengembangan
+Project ini dibuat menggunakan Laravel dengan konsep MVC,
+Authentication, CRUD, Eloquent ORM, Migration, Seeder,
+dan relasi antara Category dan Book.
